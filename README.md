@@ -18,7 +18,9 @@
 ## My NuGet Packages
 <p align="center">
     <img width="80px" src="https://github.com/itkerry/better-extensions-aspnet/raw/master/icon.png" align="left" alt="GitHub Readme Stats" />
-    <h3 align="left">BetterExtensions | ASP.NET Core</h3>
+    <a href="https://github.com/iTKerry/better-extensions-aspnet">
+        <h3 align="left">BetterExtensions | ASP.NET Core</h3>
+    </a>
 </p>
 <p align="left">
     <a href="https://www.nuget.org/packages/BetterExtensions.AspNet/">
