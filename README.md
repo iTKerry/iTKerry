@@ -2,6 +2,7 @@
 
 ### Stay connected:
 
+[<img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -18,3 +19,4 @@
 [youtube]: https://www.youtube.com/channel/UC6e15MO-hrUVVOSOYnbe7Qw
 [instagram]: https://www.instagram.com/itkerry_
 [linkedin]: https://www.linkedin.com/in/alex-katrynets
+[stackoverflow]: https://stackoverflow.com/users/7330025/itkerry?tab=profile
