@@ -1,9 +1,6 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=itkerry&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/iTKerry)
-
 <p align="center">
     <h1 align="center">My NuGet Packages</h1>
 </p>
-
 <p align="center">
     <img width="80px" src="https://github.com/itkerry/better-extensions-aspnet/raw/master/icon.png" align="center" alt="GitHub Readme Stats" />
     <h2 align="center">BetterExtensions | ASP.NET Core</h2>
@@ -18,15 +15,20 @@
     </p>
 </p>
 
+</br>
+</br>
+
 <p align="center">
     <h1 align="center">My Projects</h1>
 </p>
-
 <p align="center">
     <img width="80px" src="https://github.com/itkerry/better-travel/raw/master/icon.png" align="center" alt="better-travel-icon" />
     <h2 align="center">BetterTravel</h2>
     <p align="center">Powerful <i>Web / TelegramBot</i> that will help you to find hot-tours</p>
 </p>
+
+</br>
+</br>
 
 <p align="center">
     <h2 align="center">Stay Connected</h1>
