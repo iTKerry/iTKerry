@@ -15,20 +15,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itkerry&layout=compact&hide_border=true)](https://github.com/iTKerry)
 
-## My NuGet Packages
 <p align="center">
-    <img width="80px" src="https://github.com/itkerry/better-extensions-aspnet/raw/master/icon.png" align="left" alt="GitHub Readme Stats" />
-    <a href="https://github.com/iTKerry/better-extensions-aspnet">
-        <h3 align="left">BetterExtensions | ASP.NET Core</h3>
-    </a>
-</p>
-<p align="left">
-    <a href="https://www.nuget.org/packages/BetterExtensions.AspNet/">
-        <img alt="nuget-version" src="https://img.shields.io/nuget/v/BetterExtensions.AspNet.svg" />
-    </a>
-    <a href="https://www.nuget.org/packages/BetterExtensions.AspNet/">
-        <img alt="nuget-downloads" src="https://img.shields.io/nuget/dt/BetterExtensions.AspNet.svg" />
-    </a>
+    <img width="100px" src="https://github.com/itkerry/better-extensions-aspnet/raw/master/icon.png" align="center" alt="GitHub Readme Stats" />
+    <h1 align="center">BetterExtensions</h1>
+    <p align="center">Just to develop things faster</p>
+    <p align="center">
+        <a href="https://github.com/iTKerry/better-extensions-aspnet">ASP.NET Core</a> |
+        <a href="https://github.com/iTKerry/better-extensions-domain">Domain</a> |
+        <a href="#">LINQ (TBA)</a>
+    </p>
 </p>
 
 [twitter]: https://twitter.com/iTKerry_
