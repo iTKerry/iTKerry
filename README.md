@@ -18,7 +18,7 @@
                 <p align="center">
                     <a href="https://github.com/iTKerry/better-extensions-aspnet">ASP.NET Core</a> |
                     <a href="https://github.com/iTKerry/better-extensions-domain">Domain</a> |
-                    <a href="#">LINQ (TBA)</a>
+                    LINQ (TBA)
                 </p>
             </p>
         </td>
