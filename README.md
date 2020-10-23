@@ -1,6 +1,6 @@
 
 <p align="center" style="width: 50%; margin:0 left;text-align: left;">
-    <img width="100px" src="https://raw.githubusercontent.com/better-speaches/better-speaches/main/icon.png" align="center" />
+    <img width="100px" src="https://raw.githubusercontent.com/better-speeches/better-speaches/main/icon.png" align="center" />
     <a href="https://github.com/better-speaches"><h1 align="center">BetterSpeaches</h1></a>
     <p align="center">My speaches for various topics.</p>
     <p align="center">
