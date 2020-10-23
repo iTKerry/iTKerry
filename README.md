@@ -18,7 +18,7 @@
 
 <p align="center" style="width: 50%; margin:0 left;text-align: left;">
     <img width="100px" src="https://raw.githubusercontent.com/better-speeches/better-speeches/main/icon.png" align="center" />
-    <a href="https://github.com/better-speaches"><h1 align="center">BetterSpeeches</h1></a>
+    <a href="https://github.com/better-speeches"><h1 align="center">BetterSpeeches</h1></a>
     <p align="center"><i>My speeches for various topics.</i></p>
     <p align="center">
         <a href="https://github.com/better-speaches/varyence-primitive-obsession">Primitive Obsession</a> |
