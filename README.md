@@ -1,5 +1,15 @@
 
 <p align="center" style="width: 50%; margin:0 left;text-align: left;">
+    <img width="100px" src="https://raw.githubusercontent.com/better-speaches/better-speaches/main/icon.png" align="center" />
+    <h1 align="center">BetterSpeaches</h1>
+    <p align="center">My speaches for various topics.</p>
+    <p align="center">
+        <a href="https://github.com/better-speaches/varyence-primitive-obsession">Primitive Obsession</a> |
+        <a href="https://github.com/better-speaches/varyence-value-objects">ValueObjects with EF Core</a>
+    </p>
+</p>
+
+<p align="center" style="width: 50%; margin:0 left;text-align: left;">
     <img width="100px" src="https://github.com/itkerry/better-extensions-aspnet/raw/master/icon.png" align="center" />
     <h1 align="center">BetterExtensions</h1>
     <p align="center">Just to develop things faster</p>
