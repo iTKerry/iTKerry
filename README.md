@@ -10,7 +10,7 @@
 </p>
 
 <p align="center" style="width: 50%; margin:0 left;text-align: left;">
-    <img width="100px" src="https://github.com/itkerry/better-extensions-aspnet/raw/master/icon.png" align="center" />
+    <img width="100px" src="https://github.com/better-open-source/better-extensions-aspnet/raw/master/icon.png" align="center" />
     <h1 align="center">BetterExtensions</h1>
     <p align="center">Just to develop things faster</p>
     <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center" style="width: 50%; margin:0 left;text-align: left;">
-    <img width="100px" src="https://github.com/itkerry/better-travel/raw/master/icon.png" align="center" />
+    <img width="100px" src="https://github.com/better-open-source/better-travel/raw/master/icon.png" align="center" />
     <h1 align="center">BetterTravel</h1>
     <p align="center">Travel more, pay less. Hot-tours finder app</p>
     <p align="center">
