@@ -35,6 +35,7 @@
     <p align="center"><i>My speeches for various topics.</i></p>
     <p align="center">
         <a href="https://github.com/better-speaches/varyence-primitive-obsession">Primitive Obsession</a> |
-        <a href="https://github.com/better-speaches/varyence-value-objects">ValueObjects with EF Core</a>
+        <a href="https://github.com/better-speaches/varyence-value-objects">ValueObjects with EF Core</a> |
+        <a href="https://github.com/better-speeches/virtual-actor-model">Virtual Actor Model via Orleans</a> 
     </p>
 </p>
