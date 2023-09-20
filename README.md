@@ -4,5 +4,7 @@
     <p align="center"><i>The OpenTTD gaming community.</i></p>
     <p align="center">
         <a href="https://github.com/TG-OpenTTD/fsharp-ottd-admin">FSharp OpenTTD Admin</a>
+        |
+        <a href="https://github.com/BetterTTD/better-ottd-services">BetterTTD Infrastructure & Services</a>
     </p>
 </p>
